@@ -1,4 +1,4 @@
-#Deep Thoughts
+# Deep Thoughts
 
 ### Description
 This full stack M.E.R.N. application is a forum where the user can securely and dynamically login to their account to view thoughts and reactions of other users.
