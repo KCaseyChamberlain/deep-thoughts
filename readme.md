@@ -9,7 +9,7 @@ This full stack M.E.R.N. application is a forum where the user can securely and 
 This application is licensed under MIT
 
 ### Application Demo
-![kcaseychamberlain React Portfolio](./client/src/assets/demo.jpg)
+![Deep Thoughts](./client/src/assets/demo.jpg)
 
 ### Table of Contents
 - [Description](#description)
